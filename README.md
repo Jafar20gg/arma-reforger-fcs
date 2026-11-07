@@ -1,10 +1,14 @@
 # Arma Reforger — Vanilla Fire Control System (FCS) & Tactical Map
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jafar20gg%2Farma--reforger--fcs-blue?logo=github)](https://github.com/Jafar20gg/arma-reforger-fcs)
+[![Live App](https://img.shields.io/badge/Live_App-Open_Tactical_Map-22c55e?style=for-the-badge&logo=google-cloud)](https://ais-pre-whrvahlixoj34lpgo7gkih-495943085103.europe-west3.run.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Jafar20gg%2Farma--reforger--fcs-blue?style=for-the-badge&logo=github)](https://github.com/Jafar20gg/arma-reforger-fcs)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?logo=leaflet)](https://leafletjs.com/)
+
+> 🌐 **رابط الموقع المباشر (Live Web Application):**  
+> 🔗 **[https://ais-pre-whrvahlixoj34lpgo7gkih-495943085103.europe-west3.run.app](https://ais-pre-whrvahlixoj34lpgo7gkih-495943085103.europe-west3.run.app)**
 
 A high-precision fire control calculator and interactive tactical map built specifically for **Arma Reforger** vanilla mortar artillery and direct fire weapons.
 
