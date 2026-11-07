@@ -7,8 +7,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?logo=leaflet)](https://leafletjs.com/)
 
-> 🌐 **رابط الموقع المباشر (Live Web Application):**  
-> 🔗 **[https://ais-pre-whrvahlixoj34lpgo7gkih-495943085103.europe-west3.run.app](https://ais-pre-whrvahlixoj34lpgo7gkih-495943085103.europe-west3.run.app)**
+> 🌐 **رابط الموقع المباشر (GitHub Pages Live App):**  
+> 🔗 **[https://jafar20gg.github.io/arma-reforger-fcs/](https://jafar20gg.github.io/arma-reforger-fcs/)**  
+> *(رابط بديل / Alternative Mirror): [https://ais-pre-whrvahlixoj34lpgo7gkih-495943085103.europe-west3.run.app](https://ais-pre-whrvahlixoj34lpgo7gkih-495943085103.europe-west3.run.app)*
 
 A high-precision fire control calculator and interactive tactical map built specifically for **Arma Reforger** vanilla mortar artillery and direct fire weapons.
 
