@@ -1,6 +1,6 @@
 # Arma Reforger — Vanilla Fire Control System (FCS) & Tactical Map
 
-[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue?logo=github)](https://krsdq-pixel.github.io/arma-reforger-2/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jafar20gg%2Farma--reforger--fcs-blue?logo=github)](https://github.com/Jafar20gg/arma-reforger-fcs)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
@@ -72,7 +72,7 @@ Designed for mortar squads, forward observers, and fire direction centers (FDC) 
 This project is configured with a automated GitHub Actions deployment workflow (`.github/workflows/deploy.yml`).
 
 ### Required GitHub Repository Setup:
-1. Navigate to your repository on GitHub: `https://github.com/krsdq-pixel/arma-reforger-2`.
+1. Navigate to your repository on GitHub: `https://github.com/Jafar20gg/arma-reforger-fcs`.
 2. Go to **Settings** → **Pages**.
 3. Under **Build and deployment** → **Source**, select **GitHub Actions** (do **not** select "Deploy from a branch").
 4. Every `push` to `main` will automatically build the Vite application and publish to GitHub Pages.
@@ -90,8 +90,8 @@ This project is configured with a automated GitHub Actions deployment workflow (
 ### Setup & Run
 ```bash
 # Clone the repository
-git clone https://github.com/krsdq-pixel/arma-reforger-2.git
-cd arma-reforger-2
+git clone https://github.com/Jafar20gg/arma-reforger-fcs.git
+cd arma-reforger-fcs
 
 # Install dependencies (zero conflicts)
 npm install
